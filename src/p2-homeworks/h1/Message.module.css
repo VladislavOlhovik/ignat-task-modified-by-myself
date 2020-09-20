@@ -1,0 +1,42 @@
+.wrapper{
+    display: flex;
+}
+.wrapper img{
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+    border: solid 1px black;
+}
+.wrapper .name{
+    color: blueviolet;
+    display: flex;
+    justify-content: space-between;
+}
+.wrapper .message{
+    font-style: italic;
+}
+.speechbubble {
+	position: relative;
+	background: #85d3d3;
+    border-radius: .4em;
+    padding: 0 1% 0 1%;
+    margin-left: 18px;
+}
+.speechbubble:after {
+	content: '';
+	position: absolute;
+	left: 0;
+	top: 50%;
+	width: 0;
+	height: 0;
+	border: 15px solid transparent;
+	border-right-color: #85d3d3;
+	border-left: 0;
+	border-top: 0;
+	margin-top: -7.5px;
+	margin-left: -15px;
+}
+.name .time{
+    color: darkgrey;
+    opacity: 0,8;
+}
