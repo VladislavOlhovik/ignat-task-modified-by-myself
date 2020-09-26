@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/ignat-task-modified-by-myself/static/css/main.7d461902.chunk.css",
-    "main.js": "/ignat-task-modified-by-myself/static/js/main.fa2c6256.chunk.js",
-    "main.js.map": "/ignat-task-modified-by-myself/static/js/main.fa2c6256.chunk.js.map",
+    "main.css": "/ignat-task-modified-by-myself/static/css/main.1c84c635.chunk.css",
+    "main.js": "/ignat-task-modified-by-myself/static/js/main.984349ed.chunk.js",
+    "main.js.map": "/ignat-task-modified-by-myself/static/js/main.984349ed.chunk.js.map",
     "runtime-main.js": "/ignat-task-modified-by-myself/static/js/runtime-main.3f421f76.js",
     "runtime-main.js.map": "/ignat-task-modified-by-myself/static/js/runtime-main.3f421f76.js.map",
-    "static/js/2.e4af067e.chunk.js": "/ignat-task-modified-by-myself/static/js/2.e4af067e.chunk.js",
-    "static/js/2.e4af067e.chunk.js.map": "/ignat-task-modified-by-myself/static/js/2.e4af067e.chunk.js.map",
+    "static/js/2.7c05ea69.chunk.js": "/ignat-task-modified-by-myself/static/js/2.7c05ea69.chunk.js",
+    "static/js/2.7c05ea69.chunk.js.map": "/ignat-task-modified-by-myself/static/js/2.7c05ea69.chunk.js.map",
     "index.html": "/ignat-task-modified-by-myself/index.html",
-    "precache-manifest.0fa4904f82a20e17ae8a3b81ef8f8f2f.js": "/ignat-task-modified-by-myself/precache-manifest.0fa4904f82a20e17ae8a3b81ef8f8f2f.js",
+    "precache-manifest.0893ac9205427dc2d0625c32e1eeb8e8.js": "/ignat-task-modified-by-myself/precache-manifest.0893ac9205427dc2d0625c32e1eeb8e8.js",
     "service-worker.js": "/ignat-task-modified-by-myself/service-worker.js",
-    "static/css/main.7d461902.chunk.css.map": "/ignat-task-modified-by-myself/static/css/main.7d461902.chunk.css.map",
-    "static/js/2.e4af067e.chunk.js.LICENSE.txt": "/ignat-task-modified-by-myself/static/js/2.e4af067e.chunk.js.LICENSE.txt"
+    "static/css/main.1c84c635.chunk.css.map": "/ignat-task-modified-by-myself/static/css/main.1c84c635.chunk.css.map",
+    "static/js/2.7c05ea69.chunk.js.LICENSE.txt": "/ignat-task-modified-by-myself/static/js/2.7c05ea69.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3f421f76.js",
-    "static/js/2.e4af067e.chunk.js",
-    "static/css/main.7d461902.chunk.css",
-    "static/js/main.fa2c6256.chunk.js"
+    "static/js/2.7c05ea69.chunk.js",
+    "static/css/main.1c84c635.chunk.css",
+    "static/js/main.984349ed.chunk.js"
   ]
 }
