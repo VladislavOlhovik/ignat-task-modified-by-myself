@@ -1,0 +1,9 @@
+.span{
+    color: rgb(14, 175, 122);
+}
+.wrapper {
+    width:150px;
+    height:100px;
+    text-align:center;
+    margin: 0 auto;
+}
