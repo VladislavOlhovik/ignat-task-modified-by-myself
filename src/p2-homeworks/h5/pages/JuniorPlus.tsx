@@ -1,6 +1,5 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
-import HW6 from "../../h6/HW6";
 import { PATH } from "../Routes";
 
 function JuniorPlus() {
@@ -16,6 +15,7 @@ function JuniorPlus() {
       <NavLink to={PATH.HW4}>HomeWork-4</NavLink>
       <NavLink to={PATH.HW6}>HomeWork-6</NavLink>
       <NavLink to={PATH.HW7}>HomeWork-7</NavLink>
+      <NavLink to={PATH.HW8}>HomeWork-8</NavLink>
     </div>
   );
 }
