@@ -17,6 +17,7 @@ function JuniorPlus() {
       <NavLink to={PATH.HW7}>HomeWork-7</NavLink>
       <NavLink to={PATH.HW8}>HomeWork-8</NavLink>
       <NavLink to={PATH.HW9}>HomeWork-9</NavLink>
+      <NavLink to={PATH.HW10}>HomeWork-10</NavLink>
     </div>
   );
 }
