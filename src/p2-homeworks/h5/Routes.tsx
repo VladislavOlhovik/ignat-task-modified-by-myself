@@ -1,5 +1,5 @@
 import React from "react";
-import { Redirect, Route, Switch } from "react-router-dom";
+import { Route, Switch } from "react-router-dom";
 import HW1 from "../h1/HW1";
 import HW2 from "../h2/HW2";
 import HW3 from "../h3/HW3";
@@ -12,6 +12,7 @@ import HW7 from "../h7/HW7";
 import HW8 from "../h8/HW8";
 import HW9 from "../h9/HW9";
 import HW10 from "../h10/HW10";
+import HW11 from "../h11/HW11";
 
 export const PATH = {
   PRE_JUNIOR: "/pre-junior",
@@ -25,6 +26,7 @@ export const PATH = {
   HW8: "/hw8",
   HW9: "/hw9",
   HW10: "/hw10",
+  HW11: "/hw11",
 };
 
 function Routes() {
@@ -45,6 +47,7 @@ function Routes() {
         <Route path={PATH.HW8} exact render={() => <HW8 />} />
         <Route path={PATH.HW9} exact render={() => <HW9 />} />
         <Route path={PATH.HW10} exact render={() => <HW10 />} />
+        <Route path={PATH.HW11} exact render={() => <HW11 />} />
         {/*у этого роута нет пути, он отрисуется если пользователь захочет попасть на несуществующую страницу*/}
         <Route render={() => <Error404 />} />
       </Switch>
